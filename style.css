@@ -1,0 +1,17 @@
+body{
+    width: 80%;
+    background-color: beige;
+}
+.header-line{
+    color: darkblue;
+    text-decoration: wavy;
+}
+.first-paragraph{
+    width: 45%;
+    border: 5px solid black;
+    float: right;
+}
+.second-paragraph{
+    width: 45%;
+    border: 5px solid black;
+}
